@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">I'm Full-Stack Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Python, C#, HTML, JavaScript**
+- 🌱 I’m currently learning **Python, C#, HTML and JavaScript**
 
 - 📫 How to reach me **natan-silva-2011@hotmail.com**
 
